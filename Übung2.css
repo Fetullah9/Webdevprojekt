@@ -1,0 +1,80 @@
+ ol li {
+
+    margin: 18px;
+    color: white;
+}
+
+body {
+
+
+background-color: yellow;
+
+}
+
+
+body {
+
+    background-image: url("../Desktop/csm_Lektion1_Teaser_dafd200a63.jpg");
+    background-size: cover;
+    
+    }
+
+
+h1 {
+
+    text-align: center;
+font-style: italic;
+color:white
+}
+
+
+h2 {
+
+    font-style: italic;
+    color: springgreen;
+}
+
+
+
+ul li {
+
+color: white;
+
+}
+
+
+p{
+
+    font-style: italic;
+color: white
+
+
+
+}
+
+h3 {
+
+font-style: italic;
+color:springgreen
+
+
+}
+
+img{
+
+border-radius: 20px;
+
+} 
+
+ol {
+
+display:flex
+
+}
+
+
+ol li::first-line {
+
+color: springgreen;
+
+}
